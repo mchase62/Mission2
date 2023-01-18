@@ -1,0 +1,6 @@
+C:\Users\micha\source\repos\Mission2\Mission2\obj\Debug\Mission2.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Mission2\Mission2\bin\Debug\Mission2.exe
+C:\Users\micha\source\repos\Mission2\Mission2\bin\Debug\Mission2.pdb
+C:\Users\micha\source\repos\Mission2\Mission2\obj\Debug\Mission2.exe
+C:\Users\micha\source\repos\Mission2\Mission2\obj\Debug\Mission2.pdb
+C:\Users\micha\source\repos\Mission2\Mission2\obj\Debug\Mission2.csproj.AssemblyReference.cache
